@@ -1,2 +1,2 @@
 # Git-Hub-Assignment
-My First Git Hub Repository
+My First Git Repository
